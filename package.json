@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-firebase",
+  "name": "react-18-redux-firebase",
   "version": "3.11.0",
   "description": "Redux integration for Firebase. Comes with a Higher Order Components for use with React.",
   "main": "lib/index.js",
